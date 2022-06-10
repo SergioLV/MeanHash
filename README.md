@@ -5,4 +5,4 @@ A new hash for password hashing
 
 ## Flow chart
 
-![Flow chart diagram]([https://github.com/SergioLV/MeanHash/blob/main/MeanHash-UseCase.png](https://github.com/SergioLV/MeanHash/blob/main/MeanHash%20Flowchart.png))
+![Flow chart diagram](https://github.com/SergioLV/MeanHash/blob/main/MeanHash%20Flowchart.png)
